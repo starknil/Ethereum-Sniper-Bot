@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@normalizex/honeypot-is": "^1.0.3",
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.2",
+    "ethers": "^6.13.1",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "telegraf": "^4.16.3",
+    "web3": "^4.11.1",
+    "ws": "^8.18.0"
+  }
+}
